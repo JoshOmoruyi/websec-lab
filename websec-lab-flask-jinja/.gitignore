@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+websec.db
+websec.db-*
+node_modules/
+dist/
